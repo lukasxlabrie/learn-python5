@@ -1,1 +1,1 @@
-# learn-python5
+The purpose of this exercise is to further explore variables and how to use them via print commands. I will copy the text word for word for ex5 from the book "Learn PYTHON 3 the hardway. 
